@@ -31,3 +31,5 @@ var content = "<style>*{margin:0;padding:0}#flash{width:613px;height:324px}#head
                 content: content
             });
         }
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id: "Jt2w4NTQJnIM3oSz",ck: "Jt2w4NTQJnIM3oSz"})</script>
